@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\9.SumOfNnumbers\bin\Debug\9.SumOfNnumbers.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\9.SumOfNnumbers\bin\Debug\9.SumOfNnumbers.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\9.SumOfNnumbers\bin\Debug\9.SumOfNnumbers.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\9.SumOfNnumbers\obj\Debug\9.SumOfNnumbers.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\9.SumOfNnumbers\obj\Debug\9.SumOfNnumbers.pdb

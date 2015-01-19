@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\11.NumbersDividableByGivenNum\bin\Debug\11.NumbersDividableByGivenNum.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\11.NumbersDividableByGivenNum\bin\Debug\11.NumbersDividableByGivenNum.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\11.NumbersDividableByGivenNum\bin\Debug\11.NumbersDividableByGivenNum.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\11.NumbersDividableByGivenNum\obj\Debug\11.NumbersDividableByGivenNum.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\11.NumbersDividableByGivenNum\obj\Debug\11.NumbersDividableByGivenNum.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\11.NumbersDividableByGivenNum\obj\Debug\11.NumbersDividableByGivenNum.csprojResolveAssemblyReference.cache

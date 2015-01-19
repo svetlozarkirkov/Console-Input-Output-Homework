@@ -1,0 +1,2 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\17.CatchTheBits\bin\Debug\17.CatchTheBits.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\bin\Debug\17.CatchTheBits.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\15.NewHouse\bin\Debug\15.NewHouse.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\15.NewHouse\bin\Debug\15.NewHouse.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\15.NewHouse\bin\Debug\15.NewHouse.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\15.NewHouse\obj\Debug\15.NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\15.NewHouse\obj\Debug\15.NewHouse.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\15.NewHouse\obj\Debug\15.NewHouse.pdb

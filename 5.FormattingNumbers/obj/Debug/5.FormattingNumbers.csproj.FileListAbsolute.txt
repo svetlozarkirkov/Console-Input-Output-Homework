@@ -1,0 +1,6 @@
+c:\users\sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe
+c:\users\sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.pdb
+c:\users\sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.exe
+c:\users\sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\4.Console-Input-Output\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.csprojResolveAssemblyReference.cache
